@@ -1,3 +1,0 @@
-Cambios realizados en: determinante.ipynb
-Implementación de la función calc_determinante utilizando la función descomposicion_LU para obtener las matrices 𝐿 y 𝑈.
-Cálculo del determinante como el producto de los elementos diagonales de 𝑈.
